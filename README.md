@@ -19,7 +19,7 @@ Please provide your API key for OpenAI and Pinecone in the .env file at the root
 
 ```bash
 OPENAI_API_KEY=your openai api key
-PineCone_API_KEY=Please contact creater for the public api key
+PineCone_API_KEY=Please contact the repo creater for the public api key for access
 ```
 
 ## How to Use:
