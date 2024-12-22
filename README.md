@@ -1,20 +1,19 @@
 # DamarAssistant
 
-
 ## Set Up:
 
 ### Install required packages:
 
-Install the required packages by running the following command:
+Install the required packages by running the following command in your terminal, we recommand using conda as your environment manager.
 
 ```bash
-pip install -m requirements.txt
+pip install -r requirements.txt
 
 ```
 
 ### API Keys:
 
-Please provide your API key for OpenAI and Pinecone in the .env file at the root directory by the following format:
+Please provide your API key for OpenAI and the public Pinecone api key in the .env file at the root directory by the following format:
 
 
 ```bash
