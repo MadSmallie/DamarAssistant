@@ -27,5 +27,5 @@ PineCone_API_KEY=Please contact creater for the public api key
 Run the following command to run the app:
 
 ```bash
-python run.py
+python app.py
 ```
